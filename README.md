@@ -6,12 +6,12 @@
 
 # Tarefas
 
-- [] Criar fork do repositório
-- [] Criar tabelas em um banco de dados
-- [] Criar um CRUD para a tabela `dados.dados`
-- [] Criar um swagger para o CRUD
-- [] Criar a interface do protótipo
-- [] Dockerizar a aplicação
+- Criar fork do repositório
+- Criar tabelas em um banco de dados
+- Criar um CRUD para a tabela `dados.dados`
+- Criar um swagger para o CRUD
+- Criar a interface do protótipo
+- Dockerizar a aplicação
 
 # Requisitos técnicos
 
