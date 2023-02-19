@@ -20,3 +20,12 @@
 - Backend deve ser construído em `Node.js` - qualquer biblioteca à escolha do candidato
 - Frontend deve ser construído em `React`
 - Interface do frontend deve ser responsiva para telas até 768px
+
+
+# Instalação da aplicação
+
+- Executar o comando `docker-compose up --build -d` na raiz do projeto.
+
+# Execução da aplicação
+
+- Acessar o endereço [http://localhost:3050](http://localhost:3050)
